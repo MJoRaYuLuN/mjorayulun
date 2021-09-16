@@ -20,14 +20,17 @@
 </p>
 
 <h2 align="left">Contact or Social Media</h2>
-<a href="mailto: mjorayulun@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/gmail.png" alt="mjorayulun@gmail.com" height="25"></a>
-<a href="//www.linkedin.com/in/mjorayulun/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/linkedin.png" alt="mjorayulun linkedin" height="25"></a>
-<a href="//twitter.com/mjorayulun" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/twitter.png" alt="mjorayulun twitter" height="25"></a>
-<a href="//instagram.com/mjorayulun" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/instagram.png" alt="mjorayulun instagram" height="25"></a>
+
+[![Mail Badge](https://img.shields.io/badge/mjorayulun@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mjorayulun@gmail.com)](mailto:mjorayulun@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjorayulun/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mjorayulun/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mjorayulun/)
 
 <h1></h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjorayulun&show_icons=true&theme=radical&locale=en" alt="mjorayulun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjorayulun" alt="mjorayulun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjorayulun&" alt="mjorayulun" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjorayulun&label=Visits&color=0e75b6&style=flat" alt="mjorayulun" /> </p>
 </div>
