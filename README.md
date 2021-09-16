@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi, I'm Buğra BAYRAK 👋
+<div style="display: block"><a href="#"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/banner.jpg" alt="github mjorayulun" height="250"></a>
+<p>In short.. I'm a Geological Engineer. But my focus is software. That's why I work in the software field. </p></div>
 
-<!--
-**MJoRaYuLuN/mjorayulun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: block">
+<h2 align="left">Languages, Skills and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "25"></h2>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/html5.svg" alt="html5" width="35" height="35"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/css3.svg" alt="css3" width="35" height="35"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/javascript.svg" alt="javascript" width="35" height="35"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/bootstrap.svg" alt="bootstrap" width="35" height="35"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/php.svg" alt="php" width="35" height="35"/></a>
+<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/csharp.svg" alt="csharp" width="35" height="35"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/dotnet.svg" alt="dotnet" width="35" height="35"/> </a>
+<a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/visualstudio.svg" alt="dotnet" width="35" height="35"/> </a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/mysql.svg" alt="mysql" width="35" height="35"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/github.svg" alt="git" width="35" height="35"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/bd4c94ec1404d111f5aeda56dff137630f2f59dd/photoshop.svg" alt="photoshop" width="35" height="35"/> </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Contact or Social Media</h2>
+<a href="mailto: mjorayulun@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/gmail.png" alt="mjorayulun@gmail.com" height="25"></a>
+<a href="//www.linkedin.com/in/mjorayulun/" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/linkedin.png" alt="mjorayulun linkedin" height="25"></a>
+<a href="//twitter.com/mjorayulun" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/twitter.png" alt="mjorayulun twitter" height="25"></a>
+<a href="//instagram.com/mjorayulun" target="_blank"><img src="https://raw.githubusercontent.com/MJoRaYuLuN/mjorayulun/main/instagram.png" alt="mjorayulun instagram" height="25"></a>
+
+<h1></h1>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjorayulun&show_icons=true&theme=radical&locale=en" alt="mjorayulun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjorayulun&" alt="mjorayulun" /></p>
+</div>
