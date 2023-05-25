@@ -31,5 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjorayulun&show_icons=true&theme=blue-green&locale=en" alt="mjorayulun" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjorayulun&theme=blue-green" alt="mjorayulun" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjorayulun&theme=blue-green" alt="mjorayulun" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjorayulun&show_icons=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjorayulun&label=Visits&color=0e75b6&style=flat" alt="mjorayulun" /> </p>
 </div>
